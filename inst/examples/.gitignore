@@ -1,0 +1,5 @@
+*.Rnb.cached
+*.html
+*_files
+*_cache
+*_data
